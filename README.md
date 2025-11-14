@@ -1,5 +1,7 @@
 # Document Visual AI with FiftyOne—When a Pixel is Worth a Thousand Tokens Workshop
 
+![image](document_ai_workshop.gif)
+
 This workshop teaches you how to build visual document retrieval workflows using FiftyOne Brain. Learn to embed, visualize, and search through 1,134 NeurIPS 2025 vision papers using state-of-the-art document understanding models.
 
 ## 💡 What You'll Learn
