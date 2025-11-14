@@ -2,6 +2,17 @@
 
 This workshop teaches you how to build visual document retrieval workflows using FiftyOne Brain. Learn to embed, visualize, and search through 1,134 NeurIPS 2025 vision papers using state-of-the-art document understanding models.
 
+## 💡 What You'll Learn
+
+By the end of this workshop, you'll be able to:
+- Build document datasets in FiftyOne from raw PDFs
+- Compute embeddings with modern vision-language models
+- Visualize high-dimensional document spaces with UMAP
+- Search documents by semantic meaning and visual similarity
+- Extract and evaluate OCR text from document images
+- Identify duplicates, outliers, and novel research
+- Evaluate model performance on document understanding tasks
+
 ## 📚 Workshop Notebooks
 
 ### [01_loading_document_datasets.ipynb](01_loading_document_datasets.ipynb)
@@ -131,20 +142,21 @@ Documents are visual artifacts. Traditional OCR destroys structure and layout in
 
 Here are some additional resources you can go through:
 
-- **[Visual Document Retrieval in FiftyOne](https://github.com/harpreetsahota204/visual_document_retrieval_in_fiftyone_talk/tree/main)** - Complete workflow using the Visual AI at NeurIPS 2025 dataset
-- [![Open Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1W2Rq9wgvsb6uFt3d1fR9hBe3W3WPnIWWlz8e7Lm5GSw/edit?usp=sharing)
+### The following are for a talk I did dedicated to visual document retrieval:
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harpreetsahota204/visual_document_retrieval_in_fiftyone_talk)
+
+
+[![Open Slides](https://img.shields.io/badge/Google_Slides-FBBC04?style=for-the-badge&logo=google-slides&logoColor=white)](https://docs.google.com/presentation/d/1W2Rq9wgvsb6uFt3d1fR9hBe3W3WPnIWWlz8e7Lm5GSw/edit?usp=sharing)
+
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=-Sv5rJ4t0MM)
+
+### Additional Resources
 
 - **FiftyOne Brain**: [docs.voxel51.com/brain.html](https://docs.voxel51.com/brain.html)
+
 - **Visual AI at NeurIPS Dataset**: [huggingface.co/datasets/Voxel51/visual_ai_at_neurips2025](https://huggingface.co/datasets/Voxel51/visual_ai_at_neurips2025)
+
 - **Voxel51 on Hugging Face**: [huggingface.co/Voxel51](https://huggingface.co/Voxel51)
 
-## 💡 What You'll Learn
-
-By the end of this workshop, you'll be able to:
-- Build document datasets in FiftyOne from raw PDFs
-- Compute embeddings with modern vision-language models
-- Visualize high-dimensional document spaces with UMAP
-- Search documents by semantic meaning and visual similarity
-- Extract and evaluate OCR text from document images
-- Identify duplicates, outliers, and novel research
-- Evaluate model performance on document understanding tasks
+- [![Join Discord](https://img.shields.io/badge/Discord-Join_FiftyOne_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/fiftyone-community)
